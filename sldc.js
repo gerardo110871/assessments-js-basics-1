@@ -26,7 +26,7 @@ maintain
 */
 const planning = "This is the first step, in which the end goal of the software is determined and defined. Developers typically will see what systems are already in place, and determine what features will need to be added." 
 const analysisOfRequirements = "This step determines the requirements for this software to perform what its meant to do"
-const design = ""
-const implementation = ""
-const testingAndIntegration = " This step is very"
-const maintain = ""
+const design = "This step analyzes the look and order of things displayed"
+const implementation = "This steps brings everything together to get ready to test"
+const testingAndIntegration = " This step is very important because this has to be done before customers get to the software to ensure that it works as expected"
+const maintain = "this step keeps maintenance on the code to ensure that all things are up to date"
