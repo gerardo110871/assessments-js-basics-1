@@ -40,6 +40,6 @@ const bigOrSmallArray = [1, 99, 42, 69, 102, -10, 159, 352]
 const answers = []
 
 
-for (let i = 0; i < bigOrSmallArray; i++){
+for (let i = 0; i < 100; i++){
   console.log(i)
 }
