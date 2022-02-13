@@ -18,7 +18,7 @@ let gitDefinition = "Version Control"
 */
 
 //CODE HERE
-let gitHubDefinition = "code sharing"
+let gitHubDefinition = "Is awesome for storing and sharing code"
 //////////////////PROBLEM 3////////////////////
 /*
     Create a variable called 'gitInitDefinition'.  
