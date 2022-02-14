@@ -1,8 +1,10 @@
+let answer = prompt("Welcome!, What is your name?")
+let user = prompt(`Welcome ${answer}!, Please validate Password here:`)
 
-let user = prompt("Welcome, Please validate password here")
 
-if (user.length >= 10){
-    console.log("password accepted")
-} else {
-    console.log ("password is too short")
-}
+ while (user.length < 10) {
+    user = prompt(`Sorry ${answer}!,Password is too short`)
+    }
+   
+    console.log(`Great Password ${answer}`)
+  
