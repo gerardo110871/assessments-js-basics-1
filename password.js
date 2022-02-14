@@ -1,9 +1,9 @@
-let answer = prompt("Welcome!, What is your name?")
-let user = prompt(`Welcome ${answer}!, Please validate Password here:`)
+let answer = prompt("Welcome! What is your name?")
+let user = prompt(`Welcome ${answer}! Please validate Password here:`)
 
 
  while (user.length < 10) {
-    user = prompt(`Sorry ${answer}!,Password is too short`)
+    user = prompt(`Sorry ${answer}! Password is too short, try again`)
     }
    
     console.log(`Great Password ${answer}`)
